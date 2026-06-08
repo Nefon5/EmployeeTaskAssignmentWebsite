@@ -1,21 +1,3 @@
-<img width="886" height="259" alt="image" src="https://github.com/user-attachments/assets/528480fc-2804-4159-9d0c-c703ce168f31" />
-<img width="615" height="237" alt="image 16" src="https://github.com/user-attachments/assets/c9c4054e-dae0-4bf1-a062-9671831e8829" />
-<img width="518" height="598" alt="image 15" src="https://github.com/user-attachments/assets/ee1ce45e-4221-4f65-ae64-dc85f61caecc" />
-<img width="1919" height="1079" alt="image 14" src="https://github.com/user-attachments/assets/f9f254c2-a1db-4757-866b-28d47d7583e4" />
-<img width="1919" height="1079" alt="image 13" src="https://github.com/user-attachments/assets/acd6bea0-3583-4053-b809-0aa63c05a830" />
-<img width="619" height="866" alt="image 12" src="https://github.com/user-attachments/assets/389bd9fc-63a6-4e77-9139-6778c094e85a" />
-<img width="1370" height="331" alt="image 11" src="https://github.com/user-attachments/assets/b9e6c0d2-5baa-46d6-96f3-3d749243f7c2" />
-<img width="1919" height="1079" alt="image 10" src="https://github.com/user-attachments/assets/2eb48238-e051-4e10-a352-0f5f4cd86b9c" />
-<img width="1919" height="1079" alt="image 9" src="https://github.com/user-attachments/assets/0d0f3017-2adc-463d-bd3c-bc236ddffd0f" />
-<img width="715" height="805" alt="image 8" src="https://github.com/user-attachments/assets/3d8e72c1-85bc-413c-b3e9-127a073c67d8" />
-<img width="562" height="518" alt="image 7" src="https://github.com/user-attachments/assets/db7e1ff5-23aa-41ef-9e39-e765234a1850" />
-<img width="355" height="193" alt="image 6" src="https://github.com/user-attachments/assets/207856e3-ad30-476a-adb6-ebc710bc2482" />
-<img width="1919" height="1079" alt="image 5" src="https://github.com/user-attachments/assets/cf8b848e-b4a7-406f-963c-f38ca8859f66" />
-<img width="624" height="240" alt="image 4" src="https://github.com/user-attachments/assets/f5ad8d31-2993-44a0-be80-e5bd58122481" />
-<img width="1919" height="1079" alt="image 3" src="https://github.com/user-attachments/assets/c64a8cda-ba7c-4cf5-9c5b-258f3a5f8bca" />
-<img width="968" height="104" alt="image 2" src="https://github.com/user-attachments/assets/fdb3b3f8-39a7-4e71-b6d1-214888eaa0df" />
-<img width="1093" height="159" alt="image 1" src="https://github.com/user-attachments/assets/cc7844e9-e2e8-4c53-b670-ab8c0e88c738" />
-
 # EmployeeTaskAssignmentWebsite
 An html website utilizing mysql and php to store,retrieve and display Employee Data, Task Data and allow users to choose their next task filtering for capabilities.
 
