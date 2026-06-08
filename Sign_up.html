@@ -1,0 +1,99 @@
+<html>
+    <!-- Setting document visual settings -->
+   <style>
+        table {
+            margin: 0 auto;
+            font-size: large;
+            border: 1px solid black;
+        }
+
+        h1 {
+            text-align: center;
+            color: #006600;
+            font-size: xx-large;
+            font-family: 'Arial';
+        }
+
+        td {
+            background-color:whi;
+            border: 1px solid black;
+        }
+
+        th,
+        td {
+            font-weight: bold;
+            border: 1px solid black;
+            padding: 10px;
+            text-align: center;
+        }
+
+        td {
+            font-weight: lighter;
+        }
+    </style>
+    
+    <body style="background-color:lightblue";>
+<head>
+<title>Employee Project Assignment |Employee Sign Up </title><!--Setting website name and Title -->
+<h1><center>EmployeeProjectAssignment Website</center></h1>
+<hr>
+</head>
+<hr>
+<table>
+    <thead>
+        <tr>
+            <!-- Main link bar creation-->
+            <th><a href="http://localhost/EmployeeProjAssignment/index.php" target="_self"> See Employees  </a> </th>
+            <th><a href="http://localhost/EmployeeProjAssignment/JobTables.php" target="_self"> See AvailableJobs  </a> </th>
+            <th><a href="http://localhost/EmployeeProjAssignment/Sign_Up.html" target="_self"> Create New Employee Profile </a> </th>
+            <th><a href="http://localhost/EmployeeProjAssignment/Sign_in.php" target="_self"> Create New Jobs  </a> </th>
+        </tr>
+    </thead>
+</table>
+<hr>
+<body style="background-color:lightblue"; style = "font-family :Arial, Helvetica, sans-serif ";>
+<!--Create form with following fields which posts to process.php-->
+<h2><b>Sign Up</b></h2>
+ <form method="POST" action="process.php">
+    
+     <fieldset>
+        
+        <label for = "fName"> First Name </label>
+        <input type="text" id="fName" name="fName" required />
+        <br>
+
+        <label for = "lName"> Last Name </label>
+        <input type="text" id="lName" name="lName" required />
+        <br>
+       
+        <label for = "passcode"> Passcode </label>
+        <input type="text" id="passcode" name="passcode" required />
+        <br>
+
+        <label for = "email"> email </label>
+        <input type="text" id="email" name="email" required />
+        <br>
+
+        <h4>Capabilities</h4>
+         <input type="checkbox" id="Welding" name="Welding">
+         <label for="Welding">Welding</label>
+         <br>
+
+         <input type="checkbox" id="CAD" name="CAD">
+         <label for="CAD">CAD</label>
+         <br>
+
+         <input type="checkbox" id="FDMprinting" name="FDMprinting" >
+         <label for="FDMprinting"> FDMprinting </label>
+         <br>
+
+         <input type="checkbox" id="Lathes" name="Lathes" >
+         <label for="Lathes">Lathes</label>
+         <br>
+         <br>
+
+         <input type="submit" value="Sign Up" /> 
+         <br>
+        
+ </body>
+</html>
